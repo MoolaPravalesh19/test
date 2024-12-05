@@ -1,6 +1,6 @@
 {
   "engines": {
-    "node":"23.3.0"
+    "node":"22.x"
   },
   "name": "node-and-sql-combo",
   "version": "1.0.0",
